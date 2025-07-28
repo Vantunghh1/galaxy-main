@@ -612,9 +612,9 @@ scene.add(planet);
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
   'Quyên Quyên',
-  "Good night",
-  "Chúc cậu ngủ ngon nhaaa",
-  "Hy vọng cậu sẽ có một giấc mơ đẹp",
+  "You are so beautiful",
+  "You look like a princess",
+  "💟💟💟💟💟💟",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
